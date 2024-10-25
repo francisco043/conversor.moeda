@@ -18,6 +18,16 @@ addEventListener('submit', function(event){
         
 
     };
+// conversao simples  de moeda
 
+let valorConvertido; 
+if (daMoeda === paraMoeda){
+    valorConvertido = valor;
 
+}else{
+    valorConvertido = valor * exchangeRates [daMoeda][paraMoeda];
+
+}
+
+ const conversao = document.getElementById('conversao');
 });
