@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: rgb(49, 22, 22);
     color: rgb(254, 255, 254);
     background-image: url(cedulas-e-moedas-1024x642.jpg.optimal.jpg) 100%;
 }
@@ -24,7 +24,7 @@ main {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background: rgb(12, 12, 12);
+    background: rgb(0, 0, 0);
     border-radius: 8px;
     box-shadow: 0 2px 10px #0000001a;
 }

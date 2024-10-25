@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -11,14 +12,14 @@
         <h1>Conversor de Moedas</h1>
     </header>
     <main>
-        <form id="from-currency">
+        <form id="currency-converter">
             <section>
                 <h2>Entrada de Valor</h2>
                 <label for="amount">Valor:</label>
                 <input type="number" id="amount" placeholder="Insira o valor" required>
                
-                <label for="from-currency">Moeda de Origem:</label>
-                <select id="from-currency" required>
+                <label for="daMoeda">Moeda de Origem:</label>
+                <select id="daMoeda" required>
                     <option value="USD">Dólar (USD)</option>
                     <option value="EUR">Euro (EUR)</option>
                     <option value="BRL">Real (BRL)</option>
@@ -27,24 +28,22 @@
  
             <section>
                 <h2>Moeda de Destino</h2>
-                <label for="from-currency">Selecionar Moeda:</label>
-                <select id="from-currency" required>
+                <label for="paraMoeda">Selecionar Moeda:</label>
+                <select id="paraMoeda" required>
                     <option value="USD">Dólar (USD)</option>
                     <option value="EUR">Euro (EUR)</option>
                     <option value="BRL">Real (BRL)</option>
                 </select>
             </section>
  
-            <button type="button" id="convert-btn">Conversao</button>
-            <button type="reset" id="reset-btn">limpar</button>
+            <button type="submit" id="convert-btn">Converter</button>
+            <button type="reset" id="reset-btn">Resetar</button>
         </form>
  
-        <section id="result-section">
-            <h2>result</h2>
-            <p id="resultado"></p>
-        </section>
+            <p id="result"></p>
     </main>
  
     <script src="conver.js"></script>
 </body>
 </html>
+ 
