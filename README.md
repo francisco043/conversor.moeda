@@ -1,10 +1,13 @@
 # conversor moeda
 
 ## 🚀 Começando
+
+ # License
+>![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.3-white)
  
  O projeto se enquadra em conversao de Moedas sobre um valor.
  
- * ``valor``
+>* ``valor``
  
 >* ``moeda de origem``
  
@@ -44,17 +47,13 @@ Com a inserção dos valores, escolha qual moeda você deseja, em seguida, apert
  
 * 4- Exibição do resultado:  Atualiza o conteúdo de texto do elemento com o id "result" para exibir o valor convertido, arredondado para duas casas decimais usando toFixed(2), juntamente com o símbolo da moeda convertida. 
  
-
- 
 # Partes📋
- 
  
 * 1 - Verifica se as informações sao validas
  
 * 2 -  Faz as conversões
  
 * 3 -  Validar os valores: Faz a validacao e apresenta o resultado apos a conversão
- 
  
 # 🖇️ Partes do Código
  
@@ -92,7 +91,7 @@ Com a inserção dos valores, escolha qual moeda você deseja, em seguida, apert
  
 ## 📌 Explicação do Código
  
-📌 ``Este código é um trechinho simples de JavaScript que realiza a conversão de moedas com base em taxas predefinidas e exibe o resultado na tela`´
+📌 ``Este código é um trechinho simples de JavaScript que realiza a conversão de moedas com base em taxas predefinidas e exibe o resultado na tela``
 
 * Listener de Evento:
 
@@ -120,17 +119,17 @@ Com a inserção dos valores, escolha qual moeda você deseja, em seguida, apert
 ##  Metodos e linguagens utilizados 📋
  
 
-📌 Const
+✔️ Const
  
-📌 Document.getElementById
+✔️ Document.getElementById
  
-📌 Tofixed
+✔️ Tofixed
  
-📌 java-script
+✔️ java-script
  
-📌 CSS3
+✔️ CSS3
  
-📌 HTML
+✔️ HTML
  
 # Explicação 📋
  
@@ -175,7 +174,7 @@ Encontrar o valor, ter uma agilidade maior para a conversao de moeda e facilitar
  
 # 🛠️ Conclusão
  
->* `` Esta funçao de conversao de moeda é simples porem cumpre com oque promete.
+>* `` Esta função de conversao de moeda é simples porem cumpre com oque promete.
  
  >* ``Ele utiliza HTML e Bootstrap para proporcionar uma interface amigável e eficaz.
  
@@ -184,12 +183,14 @@ Encontrar o valor, ter uma agilidade maior para a conversao de moeda e facilitar
  
 #  📦 Tecnologias
  
-- HTML5
-- JAVA-SCRIPT
-- CSS
-- HTML
-- GIT HUB
+## Tecnlogias utilizadas 🔧
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
  
+tem menu de contexto
  
 ## Fontes
  
