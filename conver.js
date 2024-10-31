@@ -10,8 +10,8 @@ document.getElementById ('currency-converter').addEventListener('submit', functi
     const exchangeRates = {
         USD: { BRL: 5.70, EUR: 0.93 },
         BRL: { USD: 0.18, EUR: 0.16 },
-        EUR: { USD: 1.08, EUR: 6.16 },
-        EUR: { USD: 1.08, EUR: 6.16 }
+        EUR: { USD: 1.08, BRL: 6.16 },
+   
     };
  
     // Conversão simples de moeda
