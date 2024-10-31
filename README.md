@@ -4,7 +4,7 @@
 
 >![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.3-white)
  
- O projeto se enquadra em conversao de Moedas sobre um valor.
+ O projeto se enquadra em conversão de Moedas sobre um valor.
  
 >* ``valor``
  
@@ -52,7 +52,7 @@ Com a inserção dos valores, escolha qual moeda você deseja, em seguida, apert
  
 * 2 -  Faz as conversões
  
-* 3 -  Validar os valores: Faz a validacao e apresenta o resultado apos a conversão
+* 3 -  Validar os valores: Faz a validação e apresenta o resultado apos a conversão
  
 # 🖇️ Partes do Código
  
@@ -115,7 +115,7 @@ Com a inserção dos valores, escolha qual moeda você deseja, em seguida, apert
 * O código tem uma pequena duplicidade na definição de 'EUR', mas a lógica em si trata de uma conversão direta baseada em valores fixos e pressupõe que o usuário irá fornecer entradas válidas.
 
 
-##  Metodos e linguagens utilizados 📋
+##  Metodos e línguagens utilizadas 📋
  
 
 ✔️ Const
