@@ -20,7 +20,7 @@
   
 ## 📋 Requisitos
  
- requisitos sao colocar os valores e a moeda que deseja ser convertida.
+ requisitos são colocar os valores e a moeda que deseja ser convertida.
  
 ## 📋 Informações
  
